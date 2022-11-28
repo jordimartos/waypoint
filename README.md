@@ -1,7 +1,7 @@
 # waypoint
 Animation gameobject for waypoint
 
-Step by step
+Step by step:
 
 1- We create fields and repeat the scenes.
 
